@@ -21,7 +21,7 @@ Below are the links to the slides that were used in the fall 2021 version of the
 | 7   | 03/19/21    | Game Night            |              |          |
 | 8   | 03/26/21    | Pick/Ban, Composition |[5-1](https://docs.google.com/presentation/d/1oIFDJXcNjAznx8QWySorQVpUzvFfRrw3rMxsllOGUCk/edit?usp=sharing)|[5-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 | 9   | 04/02/21    | Game Night            |              |          |
-| 10  | 04/09/21    | Meta Analysis, Solo Q |[6-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[6-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 10  | 04/09/21    | Meta Analysis, Solo Q |[6-1](https://docs.google.com/presentation/d/1w5pbyvvDCoRnZoE5nYir6KhqkGM5BM3YmqZZnPdWmpk/edit?usp=sharing)|[6-2](https://docs.google.com/presentation/d/1hzOW1ubanr_p3ngXRoC84L-2RO76_hb-J-2ujLCGV4M/edit?usp=sharing) |
 | 11  | 04/16/21    | Game Night            |              |          |
 
 ---
