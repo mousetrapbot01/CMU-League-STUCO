@@ -33,9 +33,9 @@ Assessments will follow the following format. Make sure to watch the video and p
 
 | No. | Date        | Topic             | Beginner                           | Advanced |
 | ---:| :---------: | :----------:      | :----------:                       | :-----:  |
-| 1   | 01/06/21    | CS / Farming      |[link](https://youtu.be/FE721kcU2DY)| [link](?) |
-| 1   | 01/06/21    | Value Assessment  |[link](?)| [link](?) |
-| 2   | 01/06/21    | Communication     |[link](?)| [link](?) |
+| 1   | tbd         | CS / Farming      |[link](https://youtu.be/FE721kcU2DY)| [link](?) |
+| 1   | tbd         | Value Assessment  |[link](?)                           | [link](?) |
+| 2   | tdb         | Communication     |[link](?)                           | [link](?) |
 
 ---
 # Additional Material
