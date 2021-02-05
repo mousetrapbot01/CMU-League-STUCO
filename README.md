@@ -34,8 +34,8 @@ Assessments will follow the following format. Make sure to watch the video and p
 | No. | Date        | Topic             | Beginner                           | Advanced |
 | ---:| :---------: | :----------:      | :----------:                       | :-----:  |
 | 1   | tbd         | CS / Farming      |[link](https://youtu.be/FE721kcU2DY)| [link](https://youtu.be/Pq5c-Wxte8k) |
-| 1   | tbd         | Value Assessment  |[link](?)                           | N/A |
-| 2   | tdb         | Communication     |[link](?)                           | N/A |
+| 1   | tbd         | Value Assessment  |N/A                                 | N/A |
+| 2   | tdb         | Communication     |N/A                                 | N/A |
 
 ---
 # Additional Material
